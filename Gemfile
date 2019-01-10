@@ -59,5 +59,5 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'bundler', '-> 1.16', '>= 1.16.1'
+gem 'bundler', '~> 1.16', '>= 1.16.1'
 
